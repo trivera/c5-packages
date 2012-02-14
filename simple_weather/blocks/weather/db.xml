@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btWeather">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		<field name="zip" type="X"></field>
+	</table>
+</schema>
